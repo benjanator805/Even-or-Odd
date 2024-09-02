@@ -1,4 +1,5 @@
-﻿{
+﻿while (true)
+{
     Console.WriteLine("Enter Number Here");
 
     int num1 = int.Parse(Console.ReadLine());
@@ -20,6 +21,8 @@
         Console.WriteLine("Odd");
     }
 
+    
+
 
 
 
@@ -29,3 +32,6 @@
 
 
 }
+
+
+
